@@ -11,7 +11,7 @@
     overflow-x: hidden; 
     background-color: rgba(252, 252, 252, 1);
     font-family: 'Poppins', sans-serif;
-    font-size: 11pt; 
+    font-size: 9pt; 
     color: #484848;
    }
 
@@ -26,7 +26,7 @@
     color: #242729;
     padding: 4px;
     text-decoration: none;
-    font-size: 10pt; 
+    font-size: 9pt; 
     font-weight: 300;
     line-height: 25px;
     letter-spacing: 1px;
@@ -42,7 +42,7 @@
     background-color: rgba(143, 195, 194, 0.4);
     padding: 10px 30px;
     font-family: 'Poppins', sans-serif;
-    font-size: 10pt; 
+    font-size: 8pt; 
 }
 .right {
     float: right;
